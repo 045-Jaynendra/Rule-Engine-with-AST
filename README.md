@@ -1,7 +1,8 @@
 
 # Application 1: Rule Engine using AST
 ~Jaynendra Sharma
-![as1 1](https://github.com/user-attachments/assets/b6ed755a-adfa-464a-bc16-12f7892b9eb3)
+![as1 1](https://github.com/user-attachments/assets/88520f98-1710-4bb2-84a2-f01f270ba035)
+
 
 
 Preview: 
@@ -14,19 +15,22 @@ This application functions as a rule engine that assesses user eligibility based
 
 - **Rule Creation:** Users can define rules using a string format, which is then transformed into an AST.
 
-  ![as1 2](https://github.com/user-attachments/assets/06f219d1-a3fc-4188-9ac2-914dfa9fc316)
+  ![as1 2](https://github.com/user-attachments/assets/2b7bce51-de9e-4e32-a178-ba830e86a0cd)
+
 
 
 
 - **Rule Combination:** Allows the merging of multiple rules into a singular AST to enable more intricate evaluations.
 
-![as1 3](https://github.com/user-attachments/assets/37ce2a07-8b3e-4b9b-9976-7e241aef6a1a)
+![as1 3](https://github.com/user-attachments/assets/014544fd-ab6e-40b1-93f6-2c17b7a20d09)
+
 
 
 
 - **Rule Evaluation:** Assesses whether the provided data aligns with the criteria set by the AST.
 
-![as1 4](https://github.com/user-attachments/assets/2f3c8f9d-1d28-4ad6-90f5-39b5bd6a4340)
+![as1 4](https://github.com/user-attachments/assets/192dcf2f-1716-4ea6-8095-e21388941937)
+
 
 
 
@@ -77,7 +81,8 @@ This application functions as a rule engine that assesses user eligibility based
    - **Note:** Ensure that there are appropriate spaces in the rule for accurate results. The rule should follow this format: 
    `variable operator value`
    - **Response:**
-    ![as1 5](https://github.com/user-attachments/assets/c2e24055-cae3-45d6-9d73-fe57614c4ad3)
+    ![as1 5](https://github.com/user-attachments/assets/05c68266-c133-4870-a238-60bf0acb4531)
+
 
    
      
@@ -87,7 +92,8 @@ This application functions as a rule engine that assesses user eligibility based
    - **Method:** POST
    - **Request Body:**
    - **Response:**
-   ![as1 6](https://github.com/user-attachments/assets/01ee0f3f-72a4-450c-81a7-bad73a768656)
+   ![as1 6](https://github.com/user-attachments/assets/36bb785b-f6e8-4908-8e61-0a043a90aa80)
+
 
 
 
